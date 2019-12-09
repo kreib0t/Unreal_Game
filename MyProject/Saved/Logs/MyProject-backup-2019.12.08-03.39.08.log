@@ -1,0 +1,2264 @@
+﻿Log file open, 12/08/19 10:21:05
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MyProject
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 35 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.067832
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +7:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-9631420
+LogInit: Engine Version: 4.23.1-9631420+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-8750H CPU @ 2.20GHz, GPU: Intel(R) UHD Graphics 630
+LogInit: Compiled (64-bit): Oct 18 2019 02:07:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.12.08-03.21.06:672][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.12.08-03.21.06:672][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.12.08-03.21.06:672][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.21.06:672][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:1]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.21.06:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.12.08-03.21.06:673][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.21.06:673][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.21.06:677][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.08-03.21.06:677][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.08-03.21.06:678][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.08-03.21.06:678][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.08-03.21.06:678][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.12.08-03.21.06:689][  0]LogHAL: Display: Platform has ~ 16 GB [17019453440 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.12.08-03.21.06:689][  0]LogInit: Going up to parent DeviceProfile []
+[2019.12.08-03.21.06:689][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.12.08-03.21.06:689][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.12.08-03.21.06:690][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.12.08-03.21.06:690][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.12.08-03.21.06:690][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.12.08-03.21.06:690][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.12.08-03.21.06:690][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Scalability.ini]
+[2019.12.08-03.21.06:690][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.12.08-03.21.06:690][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.12.08-03.21.06:690][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.12.08-03.21.06:694][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.12.08-03.21.06:694][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.12.08-03.21.06:694][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Config/Windows/Engine.ini]
+[2019.12.08-03.21.06:694][  0]LogInit: Computer: DESKTOP-7J4GN2L
+[2019.12.08-03.21.06:694][  0]LogInit: User: Кирилл
+[2019.12.08-03.21.06:694][  0]LogInit: CPU Page size=4096, Cores=6
+[2019.12.08-03.21.06:694][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.12.08-03.21.06:695][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2019.12.08-03.21.06:695][  0]LogMemory: Platform Memory Stats for Windows
+[2019.12.08-03.21.06:695][  0]LogMemory: Process Physical Memory: 102.40 MB used, 102.41 MB peak
+[2019.12.08-03.21.06:695][  0]LogMemory: Process Virtual Memory: 99.95 MB used, 99.95 MB peak
+[2019.12.08-03.21.06:695][  0]LogMemory: Physical Memory: 6278.54 MB used,  9952.48 MB free, 16231.02 MB total
+[2019.12.08-03.21.06:695][  0]LogMemory: Virtual Memory: 4685.18 MB used,  134213040.00 MB free, 134217728.00 MB total
+[2019.12.08-03.21.06:697][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.12.08-03.21.06:814][  0]LogInit: Using OS detected language (ru-RU).
+[2019.12.08-03.21.06:814][  0]LogInit: Using OS detected locale (ru-RU).
+[2019.12.08-03.21.06:815][  0]LogTextLocalizationManager: No specific localization for 'ru-RU' exists, so the 'ru' localization will be used.
+[2019.12.08-03.21.06:816][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Editor/ru/Editor.locres' could not be opened for reading!
+[2019.12.08-03.21.06:816][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/EditorTutorials/ru/EditorTutorials.locres' could not be opened for reading!
+[2019.12.08-03.21.06:816][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Keywords/ru/Keywords.locres' could not be opened for reading!
+[2019.12.08-03.21.06:816][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Category/ru/Category.locres' could not be opened for reading!
+[2019.12.08-03.21.06:816][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/ToolTips/ru/ToolTips.locres' could not be opened for reading!
+[2019.12.08-03.21.06:816][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/PropertyNames/ru/PropertyNames.locres' could not be opened for reading!
+[2019.12.08-03.21.06:816][  0]LogTextLocalizationResource: LocRes '../../../Engine/Content/Localization/Engine/ru/Engine.locres' could not be opened for reading!
+[2019.12.08-03.21.06:838][  0]LogInit: Setting process to per monitor DPI aware
+[2019.12.08-03.21.06:901][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.12.08-03.21.06:901][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.12.08-03.21.07:691][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.08-03.21.07:691][  0]LogD3D11RHI: D3D11 adapters:
+[2019.12.08-03.21.07:763][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2019.12.08-03.21.07:763][  0]LogD3D11RHI:       1979/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.12.08-03.21.07:778][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics 630' (Feature Level 11_0)
+[2019.12.08-03.21.07:778][  0]LogD3D11RHI:       128/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2019.12.08-03.21.07:781][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.12.08-03.21.07:781][  0]LogD3D11RHI:       0/0/8115 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.12.08-03.21.07:781][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.12.08-03.21.07:807][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.12.08-03.21.07:807][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2019.12.08-03.21.07:808][  0]LogWindows: EnumDisplayDevices:
+[2019.12.08-03.21.07:808][  0]LogWindows:    0. 'Intel(R) UHD Graphics 630' (P:1 D:1)
+[2019.12.08-03.21.07:808][  0]LogWindows:    1. 'Intel(R) UHD Graphics 630' (P:0 D:1)
+[2019.12.08-03.21.07:808][  0]LogWindows:    2. 'Intel(R) UHD Graphics 630' (P:0 D:0)
+[2019.12.08-03.21.07:808][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2019.12.08-03.21.07:808][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2019.12.08-03.21.07:808][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2019.12.08-03.21.07:808][  0]LogD3D11RHI:      Driver Date: Unknown
+[2019.12.08-03.21.07:808][  0]LogRHI: Texture pool is 1385 MB (70% of 1979 MB)
+[2019.12.08-03.21.07:846][  0]LogD3D11RHI: Async texture creation enabled
+[2019.12.08-03.21.07:946][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2019.12.08-03.21.08:273][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.12.08-03.21.08:280][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.12.08-03.21.08:288][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.12.08-03.21.08:297][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.12.08-03.21.08:370][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.12.08-03.21.08:378][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.12.08-03.21.08:387][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.12.08-03.21.08:395][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.12.08-03.21.08:400][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.12.08-03.21.08:463][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.12.08-03.21.08:465][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.12.08-03.21.08:487][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.12.08-03.21.08:487][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.12.08-03.21.08:501][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.12.08-03.21.08:501][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.12.08-03.21.08:507][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.12.08-03.21.08:514][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.12.08-03.21.08:521][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.12.08-03.21.08:534][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.12.08-03.21.08:557][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.12.08-03.21.08:558][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.12.08-03.21.08:558][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.12.08-03.21.08:567][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.12.08-03.21.08:619][  0]LogShaderCompilers: Guid format shader working directory is -40 characters bigger than the processId version (../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Intermediate/Shaders/WorkingDirectory/13168/).
+[2019.12.08-03.21.08:619][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Кирилл/AppData/Local/Temp/UnrealShaderWorkingDir/43BFFD6049CC7CFD989D899A659E9079/'.
+[2019.12.08-03.21.08:622][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.12.08-03.21.08:622][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.12.08-03.21.08:622][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.12.08-03.21.09:551][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.12.08-03.21.09:596][  0]LogDerivedDataCache: Loaded boot cache 0.04s 73MB C:/Users/Кирилл/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.08-03.21.09:596][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Кирилл/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.12.08-03.21.09:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.12.08-03.21.09:596][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.12.08-03.21.09:596][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.08-03.21.09:596][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.12.08-03.21.09:607][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.12.08-03.21.09:607][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.12.08-03.21.09:607][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.12.08-03.21.09:700][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Кирилл/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.12.08-03.21.09:700][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.12.08-03.21.09:700][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.12.08-03.21.09:722][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.12.08-03.21.09:725][  0]LogSlate: Using FreeType 2.6.0
+[2019.12.08-03.21.09:725][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.12.08-03.21.09:782][  0]LogAssetRegistry: FAssetRegistry took 0.0051 seconds to start up
+[2019.12.08-03.21.10:068][  0]LogInit: Selected Device Profile: [Windows]
+[2019.12.08-03.21.10:125][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.12.08-03.21.10:125][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.12.08-03.21.10:125][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.12.08-03.21.10:125][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.12.08-03.21.10:125][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.12.08-03.21.10:245][  0]LogNetVersion: MyProject 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2896792207)
+[2019.12.08-03.21.11:652][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 1.061179 seconds
+[2019.12.08-03.21.11:658][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.12.08-03.21.11:658][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.12.08-03.21.11:658][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.12.08-03.21.12:579][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.12.08-03.21.12:582][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.12.08-03.21.12:633][  0]SourceControl: Source control is disabled
+[2019.12.08-03.21.12:633][  0]SourceControl: Source control is disabled
+[2019.12.08-03.21.12:634][  0]SourceControl: Source control is disabled
+[2019.12.08-03.21.12:635][  0]SourceControl: Source control is disabled
+[2019.12.08-03.21.12:712][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.12.08-03.21.12:865][  0]LogOcInput: OculusInput pre-init called
+[2019.12.08-03.21.12:870][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.12.08-03.21.12:870][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.12.08-03.21.12:938][  0]LogEngine: Initializing Engine...
+[2019.12.08-03.21.12:939][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.12.08-03.21.12:940][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.12.08-03.21.13:142][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.12.08-03.21.13:156][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.12.08-03.21.13:185][  0]LogInit: XAudio2 using 'Динамики (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-03.21.13:212][  0]LogInit: FAudioDevice initialized.
+[2019.12.08-03.21.13:212][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.12.08-03.21.16:977][  0]LogDerivedDataCache: Saved boot cache 3.76s 73MB C:/Users/Кирилл/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.12.08-03.21.16:997][  0]LogInit: Texture streaming: Enabled
+[2019.12.08-03.21.17:026][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.12.08-03.21.17:026][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2019.12.08-03.21.17:027][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2019.12.08-03.21.17:088][  0]LogInit: Transaction tracking system initialized
+[2019.12.08-03.21.17:116][  0]BlueprintLog: New page: Editor Load
+[2019.12.08-03.21.17:185][  0]LocalizationService: Localization service is disabled
+[2019.12.08-03.21.18:526][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.12.08-03.21.18:526][  0]LogCook: Display: Mobile HDR setting 1
+[2019.12.08-03.21.18:681][  0]SourceControl: Source control is disabled
+[2019.12.08-03.21.18:681][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Content/Maps/M_TestMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.12.08-03.21.19:478][  0]LightingResults: New page: Lighting Build
+[2019.12.08-03.21.19:489][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.21.19:490][  0]MapCheck: New page: Map Check
+[2019.12.08-03.21.19:490][  0]LightingResults: New page: Lighting Build
+[2019.12.08-03.21.19:553][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2019.12.08-03.21.20:908][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Content/' took 1.14s
+[2019.12.08-03.21.41:711][  0]LogAIModule: Creating AISystem for world M_TestMap
+[2019.12.08-03.21.41:833][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.12.08-03.21.41:871][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.60ms
+[2019.12.08-03.21.41:871][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.12.08-03.21.41:872][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,135ms to complete.
+[2019.12.08-03.21.41:872][  0]LogFileHelpers: Loading map 'M_TestMap' took 23.191
+[2019.12.08-03.21.42:541][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.21.42:549][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.21.42:555][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.21.42:563][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.21.42:985][  0]LogCollectionManager: Loaded 0 collections in 0.001781 seconds
+[2019.12.08-03.21.43:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Collections/' took 0.00s
+[2019.12.08-03.21.43:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Content/Developers/Кирилл/Collections/' took 0.00s
+[2019.12.08-03.21.43:123][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Content/Collections/' took 0.00s
+[2019.12.08-03.21.43:123][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000007 seconds
+[2019.12.08-03.21.43:134][  0]LogContentBrowser: Native class hierarchy populated in 0.0077 seconds. Added 2864 classes and 682 folders.
+[2019.12.08-03.21.43:205][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.08-03.21.46:288][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.08-03.21.51:218][  0]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.12.08-03.21.51:601][  0]LogSlate: Took 0.000122 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.12.08-03.21.52:089][  0]LogSlate: Took 0.000165 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.12.08-03.21.52:270][  0]LogSlate: Took 0.166421 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.12.08-03.21.52:503][  0]LogRenderer: Reallocating scene render targets to support 1024x1024 Format 10 NumSamples 1 (Frame:1).
+[2019.12.08-03.21.52:557][  0]LogRenderer: Reallocating scene render targets to support 1336x1024 Format 10 NumSamples 1 (Frame:1).
+[2019.12.08-03.21.52:705][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.12.08-03.21.52:706][  0]LogLoad: (Engine Initialization) Total time: 50.66 seconds
+[2019.12.08-03.21.52:706][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.12.08-03.21.52:891][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.12.08-03.21.53:834][  9]LogAssetRegistry: Asset discovery search completed in 44.0546 seconds
+[2019.12.08-03.21.53:849][  9]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000004 seconds (found 0 objects)
+[2019.12.08-03.21.53:849][  9]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000079 seconds (updated 0 objects)
+[2019.12.08-03.28.49:761][770]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-03.28.53:911][770]LogSlate: Took 0.236116 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.12.08-03.28.54:060][770]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter
+[2019.12.08-03.29.13:365][770]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0019 seconds. Added 121 classes and 0 folders.
+[2019.12.08-03.29.25:360][770]LogSlate: Took 0.044356 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2019.12.08-03.29.26:677][771]LogSlate: Took 0.022167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.12.08-03.30.22:926][402]LogEditorSessionSummary: EditorSessionSummary sent report. Type=Shutdown, SessionId={AA456AC1-4076-D1FE-8263-F198E3B9C9FD}
+[2019.12.08-03.30.48:740][247]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.08-03.30.48:740][247]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.08-03.31.52:663][484]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.12.08-03.31.53:969][484]LogBlueprint: Error: [Compiler BP_PlayerCharacter] In use pin  <Unnamed>  no longer exists on node  Server Fire . Please refresh node or break links to remove pin.
+[2019.12.08-03.31.53:969][484]LogBlueprint: Warning: [Compiler BP_PlayerCharacter] Input pin  Activate  specifying non-default value no longer exists on node  Server Fire . Please refresh node or reset pin to default value to remove pin.
+[2019.12.08-03.31.53:970][484]LogBlueprint: Error: [Compiler BP_PlayerCharacter] In use pin  <Unnamed>  no longer exists on node  Server Fire . Please refresh node or break links to remove pin.
+[2019.12.08-03.31.53:970][484]LogBlueprint: Error: [Compiler BP_PlayerCharacter] In use pin  <Unnamed>  no longer exists on node  Server Reload Weapon . Please refresh node or break links to remove pin.
+[2019.12.08-03.31.53:972][484]LogBlueprint: Error: [Compiler BP_PlayerCharacter] In use pin  <Unnamed>  no longer exists on node  Server Interact . Please refresh node or break links to remove pin.
+[2019.12.08-03.31.54:870][484]LogUObjectHash: Compacting FUObjectHashTables data took  14.87ms
+[2019.12.08-03.32.46:082][585]LogEditorTransaction: Undo Paste clipboard contents
+[2019.12.08-03.32.47:131][617]LogEditorTransaction: Undo Delete current selection
+[2019.12.08-03.32.48:504][618]LogUObjectHash: Compacting FUObjectHashTables data took   3.46ms
+[2019.12.08-03.32.48:505][618]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/M_TestMap' took 0.036
+[2019.12.08-03.32.48:570][618]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Player/BP_PlayerCharacter] ([1] browsable assets)...
+[2019.12.08-03.32.48:613][618]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Player/BP_PlayerCharacter.BP_PlayerCharacter]
+[2019.12.08-03.32.48:613][618]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Player/BP_PlayerCharacter]
+[2019.12.08-03.32.58:008][618]LogSavePackage: Moving '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/BP_PlayerCharacter_Auto19A1F7F314FBFD12D10660084EB904090.tmp' to '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/Autosaves/Game/Blueprints/Player/BP_PlayerCharacter_Auto1.uasset'
+[2019.12.08-03.32.58:106][618]LogFileHelpers: Auto-saving content packages took 9.600
+[2019.12.08-03.33.00:377][719]Cmd: TRANSACTION UNDO
+[2019.12.08-03.33.00:377][719]LogEditorTransaction: Undo Paste clipboard contents
+[2019.12.08-03.33.03:644][900]LogEditorTransaction: Undo Rename Function
+[2019.12.08-03.33.05:304][996]LogEditorTransaction: Undo Add New Function
+[2019.12.08-03.33.06:264][ 36]LogEditorTransaction: Undo Delete current selection
+[2019.12.08-03.33.44:224][145]LogEditorTransaction: Undo Rename Function
+[2019.12.08-03.33.44:974][187]LogEditorTransaction: Undo Add New Function
+[2019.12.08-03.33.45:442][213]LogEditorTransaction: Undo Delete current selection
+[2019.12.08-03.34.02:513][210]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.12.08-03.34.02:784][210]LogUObjectHash: Compacting FUObjectHashTables data took   3.84ms
+[2019.12.08-03.34.04:254][240]LogSavePackage: Moving '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/BP_PlayerCharacterA8E53A8B4CC47B0A3F8389B8BE601758.tmp' to '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2019.12.08-03.34.33:184][865]LogEditorTransaction: Undo Delete current selection
+[2019.12.08-03.34.34:803][949]LogEditorTransaction: Undo Rename Function
+[2019.12.08-03.34.46:898][648]LogEditorTransaction: Undo Resize Node
+[2019.12.08-03.34.47:839][693]LogEditorTransaction: Undo Add New Function
+[2019.12.08-03.34.49:309][774]LogEditorTransaction: Undo Move Node
+[2019.12.08-03.34.50:199][820]LogEditorTransaction: Undo Move Node
+[2019.12.08-03.34.50:890][853]LogEditorTransaction: Undo Move Node
+[2019.12.08-03.34.51:260][869]LogEditorTransaction: Undo Paste clipboard contents
+[2019.12.08-03.34.51:560][882]LogEditorTransaction: Undo Move Node
+[2019.12.08-03.34.51:892][897]LogEditorTransaction: Undo Resize Node
+[2019.12.08-03.34.52:331][917]LogEditorTransaction: Undo Move Node
+[2019.12.08-03.34.52:677][933]LogEditorTransaction: Undo Add Node
+[2019.12.08-03.35.14:704][233]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.12.08-03.35.14:948][233]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.08-03.35.16:018][271]LogSavePackage: Moving '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/BP_PlayerCharacterCA1A86854C2576DD5AAD9AAB6C3F501C.tmp' to '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2019.12.08-03.35.48:896][ 84]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.35.49:576][119]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.36.43:551][394]LogEditorTransaction: Undo Paste clipboard contents
+[2019.12.08-03.36.46:181][546]LogEditorTransaction: Undo Delete current selection
+[2019.12.08-03.36.48:767][695]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.12.08-03.36.49:020][695]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2019.12.08-03.36.50:001][733]LogSavePackage: Moving '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/BP_PlayerCharacter1D6581EB4BCA7A79DA6673870C22FC86.tmp' to '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2019.12.08-03.36.53:980][967]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.08-03.36.54:619][967]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap' with GeneratedClass '/Game/Maps/M_TestMap.M_TestMap_C' with ClassGeneratedBy '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap'
+[2019.12.08-03.36.54:642][967]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.08-03.36.54:696][967]LogPlayLevel: [PlayLevel] Compiling BP_HealthComponent before play...
+[2019.12.08-03.36.54:706][967]LogBlueprint: Error: [Compiler BP_HealthComponent] ICE - wrong output link -  Damage * (1 - (Armor / 200))
+[2019.12.08-03.36.55:001][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.80ms
+[2019.12.08-03.36.55:002][967]LogPlayLevel: PlayLevel: Blueprint regeneration took 359 ms (1 blueprints)
+[2019.12.08-03.36.55:002][967]BlueprintLog: Warning: Blueprint failed to compile:  BP_HealthComponent
+[2019.12.08-03.36.55:006][967]LogCustomDialog: Dialog displayed:
+[2019.12.08-03.36.59:360][967]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.08-03.37.00:098][967]PIE: New page: PIE session: M_TestMap (8 дек. 2019 г., 17:36:59)
+[2019.12.08-03.37.00:867][967]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2019.12.08-03.37.00:932][967]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_M_TestMap
+[2019.12.08-03.37.02:175][967]LogPlayLevel: PIE: StaticDuplicateObject took: (1.242630s)
+[2019.12.08-03.37.02:231][967]LogAIModule: Creating AISystem for world M_TestMap
+[2019.12.08-03.37.02:273][967]LogPlayLevel: PIE: World Init took: (0.097814s)
+[2019.12.08-03.37.02:316][967]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_TestMap.M_TestMap to /Game/Maps/UEDPIE_1_M_TestMap.M_TestMap (1.383918s)
+[2019.12.08-03.37.02:391][967]LogUObjectHash: Compacting FUObjectHashTables data took   3.60ms
+[2019.12.08-03.37.03:122][967]LogLoad: Game class is 'BP_TeamGameMode_C'
+[2019.12.08-03.37.03:264][967]LogWorld: Bringing World /Game/Maps/UEDPIE_1_M_TestMap.M_TestMap up for play (max tick rate 60) at 2019.12.08-10.37.03
+[2019.12.08-03.37.03:381][967]LogWorld: Bringing up level for play took: 0.119794
+[2019.12.08-03.37.03:424][967]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.03:429][967]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2019.12.08-03.37.03:429][967]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.03:431][967]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.12.08-03.37.03:431][967]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.12.08-03.37.03:454][967]LogInit: WinSock: I am DESKTOP-7J4GN2L (192.168.56.1:0)
+[2019.12.08-03.37.03:455][967]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.12.08-03.37.03:456][967]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.08-03.37.03:493][967]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2019.12.08-03.37.03:520][967]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_M_TestMap 2,63
+[2019.12.08-03.37.03:622][967]LogInit: XAudio2 using 'Динамики (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-03.37.03:668][967]LogInit: FAudioDevice initialized.
+[2019.12.08-03.37.03:706][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.37.03:744][967]LogNet: Browse: 127.0.0.1:17777//Game/Maps/M_TestMap
+[2019.12.08-03.37.03:745][967]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.03:745][967]LogTemp: Display: ParseSettings for IpNetDriver_1
+[2019.12.08-03.37.03:745][967]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.12.08-03.37.03:745][967]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.12.08-03.37.03:759][967]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.08-03.37.03:771][967]LogNet: Game client on port 17777, rate 10000
+[2019.12.08-03.37.03:852][967]PIE: Play in editor start time for /Game/Maps/M_TestMap 2,961
+[2019.12.08-03.37.03:883][967]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-03.37.03:915][967]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.37.03:915][967]LogNet: Browse: 127.0.0.1:17777//Game/Maps/M_TestMap
+[2019.12.08-03.37.03:915][967]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.03:915][967]LogTemp: Display: ParseSettings for IpNetDriver_2
+[2019.12.08-03.37.03:915][967]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.12.08-03.37.03:916][967]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.12.08-03.37.03:916][967]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.08-03.37.03:916][967]LogNet: Game client on port 17777, rate 10000
+[2019.12.08-03.37.03:918][967]PIE: Play in editor start time for /Game/Maps/M_TestMap 3,027
+[2019.12.08-03.37.03:922][967]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap' with GeneratedClass '/Game/Maps/M_TestMap.M_TestMap_C' with ClassGeneratedBy '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap'
+[2019.12.08-03.37.03:935][967]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65234
+[2019.12.08-03.37.03:937][967]LogHandshake: SendConnectChallenge. Timestamp: 0.020230, Cookie: 013020216029081168177036026029168113058106051202132146151095
+[2019.12.08-03.37.03:938][967]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65235
+[2019.12.08-03.37.03:938][967]LogHandshake: SendConnectChallenge. Timestamp: 0.020230, Cookie: 036211144059242233220219048177097097030068201020067188119077
+[2019.12.08-03.37.04:009][967]LogOnline: OSS: Creating online subsystem instance for: :Context_4
+[2019.12.08-03.37.04:076][967]LogHandshake: SendChallengeResponse. Timestamp: 0.020230, Cookie: 013020216029081168177036026029168113058106051202132146151095
+[2019.12.08-03.37.04:080][967]LogHandshake: SendChallengeResponse. Timestamp: 0.020230, Cookie: 036211144059242233220219048177097097030068201020067188119077
+[2019.12.08-03.37.04:709][968]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 10.41, Realtime: 0.77. IpNetDriver_0
+[2019.12.08-03.37.04:709][968]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65234
+[2019.12.08-03.37.04:709][968]LogHandshake: SendChallengeAck. InCookie: 013020216029081168177036026029168113058106051202132146151095
+[2019.12.08-03.37.04:709][968]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65234
+[2019.12.08-03.37.04:709][968]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.08-03.37.04:709][968]LogNet: NotifyAcceptedConnection: Name: M_TestMap, TimeStamp: 12/08/19 10:37:04, [UNetConnection] RemoteAddr: 127.0.0.1:65234, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.04:724][968]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65234, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.04:724][968]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65235
+[2019.12.08-03.37.04:724][968]LogHandshake: SendChallengeAck. InCookie: 036211144059242233220219048177097097030068201020067188119077
+[2019.12.08-03.37.04:725][968]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65235
+[2019.12.08-03.37.04:725][968]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.08-03.37.04:726][968]LogNet: NotifyAcceptedConnection: Name: M_TestMap, TimeStamp: 12/08/19 10:37:04, [UNetConnection] RemoteAddr: 127.0.0.1:65235, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.04:726][968]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65235, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.04:787][968]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 10.41, Realtime: 0.71. IpNetDriver_1
+[2019.12.08-03.37.04:788][968]LogNetVersion: MyProject 1.0.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 2812057332)
+[2019.12.08-03.37.04:788][968]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: PendingNetDriver IpNetDriver_1, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.04:802][968]LogNet: UNetDriver::TickDispatch: Very long time between ticks. DeltaTime: 10.41, Realtime: 0.72. IpNetDriver_2
+[2019.12.08-03.37.04:802][968]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: PendingNetDriver IpNetDriver_2, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.04:849][969]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_M_TestMap.M_TestMap: Accepted
+[2019.12.08-03.37.04:850][969]LogNet: Remote platform little endian=1
+[2019.12.08-03.37.04:850][969]LogNet: This platform little endian=1
+[2019.12.08-03.37.04:850][969]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_M_TestMap.M_TestMap: Accepted
+[2019.12.08-03.37.04:850][969]LogNet: Remote platform little endian=1
+[2019.12.08-03.37.04:851][969]LogNet: This platform little endian=1
+[2019.12.08-03.37.04:851][969]LogOnline: OSS: Creating online subsystem instance for: :Context_5
+[2019.12.08-03.37.04:854][969]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2019.12.08-03.37.04:881][970]LogNet: Login request: /Game/Maps/M_TestMap?Name=DESKTOP-7J4GN2L-1BFE04734687C9E399CEE196A7614F6F userId: NULL:DESKTOP-7J4GN2L-1BFE04734687C9E399CEE196A7614F6F platform: NULL
+[2019.12.08-03.37.04:882][970]LogNet: Login request: /Game/Maps/M_TestMap?Name=DESKTOP-7J4GN2L-89F757044F73A0BB2814D1A25B8D8E81 userId: NULL:DESKTOP-7J4GN2L-89F757044F73A0BB2814D1A25B8D8E81 platform: NULL
+[2019.12.08-03.37.04:883][970]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_M_TestMap, Game: /Game/Blueprints/Game/BP_TeamGameMode.BP_TeamGameMode_C)
+[2019.12.08-03.37.04:883][970]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_M_TestMap?game=/Game/Blueprints/Game/BP_TeamGameMode.BP_TeamGameMode_C
+[2019.12.08-03.37.04:883][970]LogWorld: BeginTearingDown for /Temp/Untitled_1
+[2019.12.08-03.37.04:884][970]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.37.04:962][970]LogUObjectHash: Compacting FUObjectHashTables data took   3.56ms
+[2019.12.08-03.37.05:115][970]LogAIModule: Creating AISystem for world M_TestMap
+[2019.12.08-03.37.05:115][970]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.05:160][970]LogWorld: Bringing World /Game/Maps/UEDPIE_2_M_TestMap.M_TestMap up for play (max tick rate 60) at 2019.12.08-10.37.05
+[2019.12.08-03.37.05:160][970]LogWorld: Bringing up level for play took: 0.005355
+[2019.12.08-03.37.05:164][970]LogLoad: Took 0.281746 seconds to LoadMap(/Game/Maps/UEDPIE_1_M_TestMap)
+[2019.12.08-03.37.05:177][970]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_M_TestMap, Game: /Game/Blueprints/Game/BP_TeamGameMode.BP_TeamGameMode_C)
+[2019.12.08-03.37.05:177][970]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_M_TestMap?game=/Game/Blueprints/Game/BP_TeamGameMode.BP_TeamGameMode_C
+[2019.12.08-03.37.05:177][970]LogWorld: BeginTearingDown for /Temp/Untitled_2
+[2019.12.08-03.37.05:178][970]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.37.05:506][970]LogUObjectHash: Compacting FUObjectHashTables data took  14.23ms
+[2019.12.08-03.37.05:576][970]LogAIModule: Creating AISystem for world M_TestMap
+[2019.12.08-03.37.05:577][970]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.05:581][970]LogWorld: Bringing World /Game/Maps/UEDPIE_3_M_TestMap.M_TestMap up for play (max tick rate 60) at 2019.12.08-10.37.05
+[2019.12.08-03.37.05:582][970]LogWorld: Bringing up level for play took: 0.003327
+[2019.12.08-03.37.05:582][970]LogLoad: Took 0.404715 seconds to LoadMap(/Game/Maps/UEDPIE_1_M_TestMap)
+[2019.12.08-03.37.05:613][971]LogNet: Client netspeed is 10000
+[2019.12.08-03.37.05:613][971]LogNet: Join request: /Game/Maps/M_TestMap?Name=DESKTOP-7J4GN2L-1BFE04734687C9E399CEE196A7614F6F?SplitscreenCount=1
+[2019.12.08-03.37.05:643][971]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.06:240][971]LogNet: Join succeeded: DESKTOP-7J4GN2L-1BFE
+[2019.12.08-03.37.06:240][971]LogNet: Client netspeed is 10000
+[2019.12.08-03.37.06:240][971]LogNet: Join request: /Game/Maps/M_TestMap?Name=DESKTOP-7J4GN2L-89F757044F73A0BB2814D1A25B8D8E81?SplitscreenCount=1
+[2019.12.08-03.37.06:242][971]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.06:243][971]LogNet: Join succeeded: DESKTOP-7J4GN2L-89F7
+[2019.12.08-03.37.07:091][979]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.07:633][984]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.07:674][986]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.07:696][987]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.10:450][ 70]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:450][ 70]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:509][ 71]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:509][ 71]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:511][ 71]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:511][ 71]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:546][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:546][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:547][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:547][ 72]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:566][ 73]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:566][ 73]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:566][ 73]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:566][ 73]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:586][ 74]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:587][ 74]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:587][ 74]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:587][ 74]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:607][ 75]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:607][ 75]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:608][ 75]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:608][ 75]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:627][ 76]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:627][ 76]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:628][ 76]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:628][ 76]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:647][ 77]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:648][ 77]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:648][ 77]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:648][ 77]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:667][ 78]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:667][ 78]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:668][ 78]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:668][ 78]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:689][ 79]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:689][ 79]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:690][ 79]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:690][ 79]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:709][ 80]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:709][ 80]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:710][ 80]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:710][ 80]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:729][ 81]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:729][ 81]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:730][ 81]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:730][ 81]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:748][ 82]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:748][ 82]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:749][ 82]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:749][ 82]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:768][ 83]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:768][ 83]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:768][ 83]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:768][ 83]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:789][ 84]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:789][ 84]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:790][ 84]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:790][ 84]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:810][ 85]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:810][ 85]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:810][ 85]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:810][ 85]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:829][ 86]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:829][ 86]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:830][ 86]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:830][ 86]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:849][ 87]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:849][ 87]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:849][ 87]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:849][ 87]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:869][ 88]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:869][ 88]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:871][ 88]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:871][ 88]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:893][ 89]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:893][ 89]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:894][ 89]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:894][ 89]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:915][ 90]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:915][ 90]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:915][ 90]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:916][ 90]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:937][ 91]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:937][ 91]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:938][ 91]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:938][ 91]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:960][ 92]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:961][ 92]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:961][ 92]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:961][ 92]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:982][ 93]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:982][ 93]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.10:983][ 93]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.10:983][ 93]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:006][ 94]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:006][ 94]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:006][ 94]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:006][ 94]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:027][ 95]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:027][ 95]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:028][ 95]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:028][ 95]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:049][ 96]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:049][ 96]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:050][ 96]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:050][ 96]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:071][ 97]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:071][ 97]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:072][ 97]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:072][ 97]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:093][ 98]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:094][ 98]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:094][ 98]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:094][ 98]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:114][ 99]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:115][ 99]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:115][ 99]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:115][ 99]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:133][100]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:133][100]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:133][100]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:133][100]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:153][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:153][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:153][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:153][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:174][102]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:174][102]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:175][102]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:175][102]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:195][103]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:196][103]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:196][103]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:196][103]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:214][104]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:214][104]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:215][104]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:215][104]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:234][105]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:234][105]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:235][105]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:235][105]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:258][106]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:258][106]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:258][106]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:258][106]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:277][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:277][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:278][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:278][107]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:297][108]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:297][108]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:297][108]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:297][108]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:317][109]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:317][109]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:317][109]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:317][109]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:337][110]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:337][110]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:338][110]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:338][110]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:359][111]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:359][111]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:359][111]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:359][111]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:379][112]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:379][112]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:380][112]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:380][112]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:397][113]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:398][113]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:398][113]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:398][113]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:418][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:418][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:419][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:419][114]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:439][115]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:439][115]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:440][115]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:440][115]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:459][116]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:459][116]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:460][116]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:460][116]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:479][117]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:479][117]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:479][117]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:479][117]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:497][118]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:497][118]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:497][118]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:497][118]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:517][119]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:517][119]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:517][119]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:517][119]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:538][120]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:538][120]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:538][120]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:539][120]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:541][121]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.12.08-03.37.11:559][121]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:559][121]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:559][121]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:559][121]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:580][122]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:580][122]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:580][122]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:580][122]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:598][123]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:598][123]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:598][123]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:598][123]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:618][124]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:618][124]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:618][124]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:619][124]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:639][125]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:639][125]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:640][125]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:640][125]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:660][126]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:660][126]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:660][126]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetHealthPercent
+
+[2019.12.08-03.37.11:660][126]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/UI/HUD/W_HUD_HealthStats.W_HUD_HealthStats_C:Bind_GetArmorPercent
+
+[2019.12.08-03.37.11:683][127]LogSlate: Window 'MyProject Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.08-03.37.11:719][127]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap' with GeneratedClass '/Game/Maps/M_TestMap.M_TestMap_C' with ClassGeneratedBy '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap'
+[2019.12.08-03.37.11:720][127]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.37.11:720][127]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_3_M_TestMap
+[2019.12.08-03.37.11:747][127]LogSlate: Window 'MyProject Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.08-03.37.11:764][127]LogWorld: UWorld::CleanupWorld for M_TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.37.11:793][127]LogNet: World NetDriver shutdown IpNetDriver_2 [GameNetDriver]
+[2019.12.08-03.37.11:793][127]LogNet: DestroyNamedNetDriver IpNetDriver_2 [GameNetDriver]
+[2019.12.08-03.37.11:794][127]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-89F757044F73A0BB2814D1A25B8D8E81, Channels: 22, Time: 2019.12.08-03.37.11
+[2019.12.08-03.37.11:794][127]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_2, IsServer: NO, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-89F757044F73A0BB2814D1A25B8D8E81
+[2019.12.08-03.37.11:823][127]LogExit: GameNetDriver IpNetDriver_2 shut down
+[2019.12.08-03.37.11:825][127]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_M_TestMap
+[2019.12.08-03.37.11:825][127]LogWorld: UWorld::CleanupWorld for M_TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.37.11:833][127]LogNet: World NetDriver shutdown IpNetDriver_1 [GameNetDriver]
+[2019.12.08-03.37.11:833][127]LogNet: DestroyNamedNetDriver IpNetDriver_1 [GameNetDriver]
+[2019.12.08-03.37.11:833][127]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-1BFE04734687C9E399CEE196A7614F6F, Channels: 22, Time: 2019.12.08-03.37.11
+[2019.12.08-03.37.11:833][127]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_1, IsServer: NO, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-1BFE04734687C9E399CEE196A7614F6F
+[2019.12.08-03.37.11:833][127]LogExit: GameNetDriver IpNetDriver_1 shut down
+[2019.12.08-03.37.11:835][127]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_M_TestMap
+[2019.12.08-03.37.11:835][127]LogWorld: UWorld::CleanupWorld for M_TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.37.11:836][127]LogNet: World NetDriver shutdown IpNetDriver_0 [GameNetDriver]
+[2019.12.08-03.37.11:836][127]LogNet: DestroyNamedNetDriver IpNetDriver_0 [GameNetDriver]
+[2019.12.08-03.37.11:837][127]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:65235, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_TeamPlayerController_C_1, Owner: BP_TeamPlayerController_C_1, UniqueId: NULL:DESKTOP-7J4GN2L-89F757044F73A0BB2814D1A25B8D8E81
+[2019.12.08-03.37.11:837][127]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65235, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_TeamPlayerController_C_1, Owner: BP_TeamPlayerController_C_1, UniqueId: NULL:DESKTOP-7J4GN2L-89F757044F73A0BB2814D1A25B8D8E81, Channels: 22, Time: 2019.12.08-03.37.11
+[2019.12.08-03.37.11:837][127]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65235, Name: IpConnection_3, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_TeamPlayerController_C_1, Owner: BP_TeamPlayerController_C_1, UniqueId: NULL:DESKTOP-7J4GN2L-89F757044F73A0BB2814D1A25B8D8E81
+[2019.12.08-03.37.11:837][127]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:65234, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-1BFE04734687C9E399CEE196A7614F6F
+[2019.12.08-03.37.11:837][127]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65234, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-1BFE04734687C9E399CEE196A7614F6F, Channels: 22, Time: 2019.12.08-03.37.11
+[2019.12.08-03.37.11:838][127]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65234, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-1BFE04734687C9E399CEE196A7614F6F
+[2019.12.08-03.37.11:838][127]LogExit: GameNetDriver IpNetDriver_0 shut down
+[2019.12.08-03.37.11:841][127]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-03.37.11:841][127]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap' with GeneratedClass '/Game/Maps/M_TestMap.M_TestMap_C' with ClassGeneratedBy '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap'
+[2019.12.08-03.37.12:059][127]LogUObjectHash: Compacting FUObjectHashTables data took  11.52ms
+[2019.12.08-03.37.12:089][128]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2019.12.08-03.37.12:135][128]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2019.12.08-03.37.12:136][128]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2019.12.08-03.37.13:708][213]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.08-03.37.13:733][213]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap' with GeneratedClass '/Game/Maps/M_TestMap.M_TestMap_C' with ClassGeneratedBy '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap'
+[2019.12.08-03.37.13:733][213]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-03.37.13:733][213]PIE: New page: PIE session: M_TestMap (8 дек. 2019 г., 17:37:13)
+[2019.12.08-03.37.13:733][213]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_1_M_TestMap
+[2019.12.08-03.37.13:757][213]LogPlayLevel: PIE: StaticDuplicateObject took: (0.024004s)
+[2019.12.08-03.37.13:758][213]LogAIModule: Creating AISystem for world M_TestMap
+[2019.12.08-03.37.13:758][213]LogPlayLevel: PIE: World Init took: (0.000775s)
+[2019.12.08-03.37.13:758][213]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/M_TestMap.M_TestMap to /Game/Maps/UEDPIE_1_M_TestMap.M_TestMap (0.024913s)
+[2019.12.08-03.37.13:790][213]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2019.12.08-03.37.13:792][213]LogLoad: Game class is 'BP_TeamGameMode_C'
+[2019.12.08-03.37.13:794][213]LogWorld: Bringing World /Game/Maps/UEDPIE_1_M_TestMap.M_TestMap up for play (max tick rate 60) at 2019.12.08-10.37.13
+[2019.12.08-03.37.13:794][213]LogWorld: Bringing up level for play took: 0.001879
+[2019.12.08-03.37.13:795][213]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.13:795][213]LogTemp: Display: ParseSettings for IpNetDriver_3
+[2019.12.08-03.37.13:795][213]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.13:795][213]LogNet: ReplicationDriverClass is null! Not using ReplicationDriver.
+[2019.12.08-03.37.13:795][213]PacketHandlerLog: DDoS detection status: detection enabled: 0 analytics enabled: 0
+[2019.12.08-03.37.13:795][213]LogInit: WinSock: Socket queue. Rx: 131072 (config 131072) Tx: 131072 (config 131072)
+[2019.12.08-03.37.13:795][213]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.08-03.37.13:795][213]LogNet: GameNetDriver IpNetDriver_3 IpNetDriver listening on port 17777
+[2019.12.08-03.37.13:795][213]PIE: Play in editor start time for /Game/Maps/UEDPIE_1_M_TestMap 0,906
+[2019.12.08-03.37.13:809][213]LogInit: XAudio2 using 'Динамики (USB Audio Device)' : 2 channels at 48 kHz using 16 bits per sample (channel mask 0x3)
+[2019.12.08-03.37.13:819][213]LogInit: FAudioDevice initialized.
+[2019.12.08-03.37.13:833][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.37.13:833][213]LogNet: Browse: 127.0.0.1:17777//Game/Maps/M_TestMap
+[2019.12.08-03.37.13:833][213]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.13:833][213]LogTemp: Display: ParseSettings for IpNetDriver_4
+[2019.12.08-03.37.13:834][213]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.12.08-03.37.13:834][213]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.12.08-03.37.13:834][213]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.08-03.37.13:834][213]LogNet: Game client on port 17777, rate 10000
+[2019.12.08-03.37.13:840][213]PIE: Play in editor start time for /Game/Maps/M_TestMap 0,949
+[2019.12.08-03.37.13:847][213]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.12.08-03.37.13:859][213]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.37.13:859][213]LogNet: Browse: 127.0.0.1:17777//Game/Maps/M_TestMap
+[2019.12.08-03.37.13:859][213]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.13:859][213]LogTemp: Display: ParseSettings for IpNetDriver_5
+[2019.12.08-03.37.13:859][213]LogTemp: Display: ParseSettings for PendingNetDriver
+[2019.12.08-03.37.13:859][213]LogInit: WinSock: Socket queue. Rx: 32768 (config 32768) Tx: 32768 (config 32768)
+[2019.12.08-03.37.13:860][213]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.08-03.37.13:860][213]LogNet: Game client on port 17777, rate 10000
+[2019.12.08-03.37.13:863][213]PIE: Play in editor start time for /Game/Maps/M_TestMap 0,972
+[2019.12.08-03.37.13:867][213]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap' with GeneratedClass '/Game/Maps/M_TestMap.M_TestMap_C' with ClassGeneratedBy '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap'
+[2019.12.08-03.37.13:867][213]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65236
+[2019.12.08-03.37.13:867][213]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 046200187194005188246008122172109062234085034185079103211083
+[2019.12.08-03.37.13:867][213]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65237
+[2019.12.08-03.37.13:867][213]LogHandshake: SendConnectChallenge. Timestamp: 0.016667, Cookie: 163231195088218008150046155230161029113188142237210170099058
+[2019.12.08-03.37.13:867][213]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2019.12.08-03.37.13:869][213]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 046200187194005188246008122172109062234085034185079103211083
+[2019.12.08-03.37.13:870][213]LogHandshake: SendChallengeResponse. Timestamp: 0.016667, Cookie: 163231195088218008150046155230161029113188142237210170099058
+[2019.12.08-03.37.13:901][214]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65236
+[2019.12.08-03.37.13:902][214]LogHandshake: SendChallengeAck. InCookie: 046200187194005188246008122172109062234085034185079103211083
+[2019.12.08-03.37.13:902][214]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65236
+[2019.12.08-03.37.13:902][214]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.08-03.37.13:903][214]LogNet: NotifyAcceptedConnection: Name: M_TestMap, TimeStamp: 12/08/19 10:37:13, [UNetConnection] RemoteAddr: 127.0.0.1:65236, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.13:903][214]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65236, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.13:903][214]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:65237
+[2019.12.08-03.37.13:903][214]LogHandshake: SendChallengeAck. InCookie: 163231195088218008150046155230161029113188142237210170099058
+[2019.12.08-03.37.13:904][214]LogNet: Server accepting post-challenge connection from: 127.0.0.1:65237
+[2019.12.08-03.37.13:905][214]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2019.12.08-03.37.13:905][214]LogNet: NotifyAcceptedConnection: Name: M_TestMap, TimeStamp: 12/08/19 10:37:13, [UNetConnection] RemoteAddr: 127.0.0.1:65237, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.13:905][214]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:65237, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.13:906][214]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: PendingNetDriver IpNetDriver_4, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.13:907][214]LogNet: UPendingNetGame::SendInitialJoin: Sending hello. [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: PendingNetDriver IpNetDriver_5, IsServer: NO, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2019.12.08-03.37.13:924][215]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_M_TestMap.M_TestMap: Accepted
+[2019.12.08-03.37.13:924][215]LogNet: Remote platform little endian=1
+[2019.12.08-03.37.13:924][215]LogNet: This platform little endian=1
+[2019.12.08-03.37.13:925][215]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/UEDPIE_1_M_TestMap.M_TestMap: Accepted
+[2019.12.08-03.37.13:925][215]LogNet: Remote platform little endian=1
+[2019.12.08-03.37.13:925][215]LogNet: This platform little endian=1
+[2019.12.08-03.37.13:925][215]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2019.12.08-03.37.13:927][215]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2019.12.08-03.37.13:945][216]LogNet: Login request: /Game/Maps/M_TestMap?Name=DESKTOP-7J4GN2L-547A7B3B4BEA649D7E5A06911F5A651F userId: NULL:DESKTOP-7J4GN2L-547A7B3B4BEA649D7E5A06911F5A651F platform: NULL
+[2019.12.08-03.37.13:945][216]LogNet: Login request: /Game/Maps/M_TestMap?Name=DESKTOP-7J4GN2L-69C3F08549DCA05FE1C6089BE20BB405 userId: NULL:DESKTOP-7J4GN2L-69C3F08549DCA05FE1C6089BE20BB405 platform: NULL
+[2019.12.08-03.37.13:945][216]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_M_TestMap, Game: /Game/Blueprints/Game/BP_TeamGameMode.BP_TeamGameMode_C)
+[2019.12.08-03.37.13:945][216]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_M_TestMap?game=/Game/Blueprints/Game/BP_TeamGameMode.BP_TeamGameMode_C
+[2019.12.08-03.37.13:945][216]LogWorld: BeginTearingDown for /Temp/Untitled_3
+[2019.12.08-03.37.13:945][216]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.37.13:984][216]LogUObjectHash: Compacting FUObjectHashTables data took   2.92ms
+[2019.12.08-03.37.14:009][216]LogAIModule: Creating AISystem for world M_TestMap
+[2019.12.08-03.37.14:010][216]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.14:012][216]LogWorld: Bringing World /Game/Maps/UEDPIE_2_M_TestMap.M_TestMap up for play (max tick rate 60) at 2019.12.08-10.37.14
+[2019.12.08-03.37.14:012][216]LogWorld: Bringing up level for play took: 0.001503
+[2019.12.08-03.37.14:012][216]LogLoad: Took 0.067614 seconds to LoadMap(/Game/Maps/UEDPIE_1_M_TestMap)
+[2019.12.08-03.37.14:012][216]LogNet: Welcomed by server (Level: /Game/Maps/UEDPIE_1_M_TestMap, Game: /Game/Blueprints/Game/BP_TeamGameMode.BP_TeamGameMode_C)
+[2019.12.08-03.37.14:013][216]LogLoad: LoadMap: 127.0.0.1:17777//Game/Maps/UEDPIE_1_M_TestMap?game=/Game/Blueprints/Game/BP_TeamGameMode.BP_TeamGameMode_C
+[2019.12.08-03.37.14:013][216]LogWorld: BeginTearingDown for /Temp/Untitled_4
+[2019.12.08-03.37.14:013][216]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.37.14:053][216]LogUObjectHash: Compacting FUObjectHashTables data took   3.38ms
+[2019.12.08-03.37.14:079][216]LogAIModule: Creating AISystem for world M_TestMap
+[2019.12.08-03.37.14:079][216]LogTemp: Display: ParseSettings for GameNetDriver
+[2019.12.08-03.37.14:081][216]LogWorld: Bringing World /Game/Maps/UEDPIE_3_M_TestMap.M_TestMap up for play (max tick rate 60) at 2019.12.08-10.37.14
+[2019.12.08-03.37.14:082][216]LogWorld: Bringing up level for play took: 0.001443
+[2019.12.08-03.37.14:082][216]LogLoad: Took 0.069009 seconds to LoadMap(/Game/Maps/UEDPIE_1_M_TestMap)
+[2019.12.08-03.37.14:096][217]LogNet: Client netspeed is 10000
+[2019.12.08-03.37.14:096][217]LogNet: Join request: /Game/Maps/M_TestMap?Name=DESKTOP-7J4GN2L-547A7B3B4BEA649D7E5A06911F5A651F?SplitscreenCount=1
+[2019.12.08-03.37.14:097][217]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.14:097][217]LogNet: Join succeeded: DESKTOP-7J4GN2L-547A
+[2019.12.08-03.37.14:097][217]LogNet: Client netspeed is 10000
+[2019.12.08-03.37.14:097][217]LogNet: Join request: /Game/Maps/M_TestMap?Name=DESKTOP-7J4GN2L-69C3F08549DCA05FE1C6089BE20BB405?SplitscreenCount=1
+[2019.12.08-03.37.14:098][217]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.14:098][217]LogNet: Join succeeded: DESKTOP-7J4GN2L-69C3
+[2019.12.08-03.37.14:281][226]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.14:358][229]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.14:377][230]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.14:398][231]LogOnlineSession: Warning: OSS: No game present to join for session (GameSession)
+[2019.12.08-03.37.15:139][269]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap' with GeneratedClass '/Game/Maps/M_TestMap.M_TestMap_C' with ClassGeneratedBy '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap'
+[2019.12.08-03.37.15:140][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.37.15:140][269]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_3_M_TestMap
+[2019.12.08-03.37.15:177][269]LogSlate: Window 'MyProject Game Preview Client 2 (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.08-03.37.15:180][269]LogWorld: UWorld::CleanupWorld for M_TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.37.15:184][269]LogNet: World NetDriver shutdown IpNetDriver_5 [GameNetDriver]
+[2019.12.08-03.37.15:184][269]LogNet: DestroyNamedNetDriver IpNetDriver_5 [GameNetDriver]
+[2019.12.08-03.37.15:184][269]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-69C3F08549DCA05FE1C6089BE20BB405, Channels: 20, Time: 2019.12.08-03.37.15
+[2019.12.08-03.37.15:184][269]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_5, Driver: GameNetDriver IpNetDriver_5, IsServer: NO, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-69C3F08549DCA05FE1C6089BE20BB405
+[2019.12.08-03.37.15:184][269]LogExit: GameNetDriver IpNetDriver_5 shut down
+[2019.12.08-03.37.15:185][269]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_2_M_TestMap
+[2019.12.08-03.37.15:185][269]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.12.08-03.37.15:206][269]LogSlate: Window 'MyProject Game Preview Client 1 (64-bit/PCD3D_SM5)' being destroyed
+[2019.12.08-03.37.15:212][269]LogWorld: UWorld::CleanupWorld for M_TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.37.15:221][269]LogNet: World NetDriver shutdown IpNetDriver_4 [GameNetDriver]
+[2019.12.08-03.37.15:221][269]LogNet: DestroyNamedNetDriver IpNetDriver_4 [GameNetDriver]
+[2019.12.08-03.37.15:221][269]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-547A7B3B4BEA649D7E5A06911F5A651F, Channels: 20, Time: 2019.12.08-03.37.15
+[2019.12.08-03.37.15:221][269]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:17777, Name: IpConnection_4, Driver: GameNetDriver IpNetDriver_4, IsServer: NO, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-547A7B3B4BEA649D7E5A06911F5A651F
+[2019.12.08-03.37.15:222][269]LogExit: GameNetDriver IpNetDriver_4 shut down
+[2019.12.08-03.37.15:222][269]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_1_M_TestMap
+[2019.12.08-03.37.15:223][269]LogWorld: UWorld::CleanupWorld for M_TestMap, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.37.15:223][269]LogNet: World NetDriver shutdown IpNetDriver_3 [GameNetDriver]
+[2019.12.08-03.37.15:223][269]LogNet: DestroyNamedNetDriver IpNetDriver_3 [GameNetDriver]
+[2019.12.08-03.37.15:223][269]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:65237, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_TeamPlayerController_C_1, Owner: BP_TeamPlayerController_C_1, UniqueId: NULL:DESKTOP-7J4GN2L-69C3F08549DCA05FE1C6089BE20BB405
+[2019.12.08-03.37.15:223][269]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65237, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_TeamPlayerController_C_1, Owner: BP_TeamPlayerController_C_1, UniqueId: NULL:DESKTOP-7J4GN2L-69C3F08549DCA05FE1C6089BE20BB405, Channels: 20, Time: 2019.12.08-03.37.15
+[2019.12.08-03.37.15:223][269]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65237, Name: IpConnection_7, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_TeamPlayerController_C_1, Owner: BP_TeamPlayerController_C_1, UniqueId: NULL:DESKTOP-7J4GN2L-69C3F08549DCA05FE1C6089BE20BB405
+[2019.12.08-03.37.15:224][269]LogNet: UNetConnection::Cleanup: Closing open connection. [UNetConnection] RemoteAddr: 127.0.0.1:65236, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-547A7B3B4BEA649D7E5A06911F5A651F
+[2019.12.08-03.37.15:224][269]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:65236, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-547A7B3B4BEA649D7E5A06911F5A651F, Channels: 20, Time: 2019.12.08-03.37.15
+[2019.12.08-03.37.15:224][269]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:65236, Name: IpConnection_6, Driver: GameNetDriver IpNetDriver_3, IsServer: YES, PC: BP_TeamPlayerController_C_0, Owner: BP_TeamPlayerController_C_0, UniqueId: NULL:DESKTOP-7J4GN2L-547A7B3B4BEA649D7E5A06911F5A651F
+[2019.12.08-03.37.15:224][269]LogExit: GameNetDriver IpNetDriver_3 shut down
+[2019.12.08-03.37.15:224][269]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2019.12.08-03.37.15:225][269]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap' with GeneratedClass '/Game/Maps/M_TestMap.M_TestMap_C' with ClassGeneratedBy '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap'
+[2019.12.08-03.37.15:272][269]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2019.12.08-03.37.15:285][270]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2019.12.08-03.37.15:285][270]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2019.12.08-03.37.15:285][270]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2019.12.08-03.37.17:556][403]LogEditorTransaction: Undo Move Node
+[2019.12.08-03.37.17:904][418]LogEditorTransaction: Undo Rename Function
+[2019.12.08-03.37.18:259][433]LogEditorTransaction: Undo Add New Function
+[2019.12.08-03.37.18:579][445]LogEditorTransaction: Undo Move Node
+[2019.12.08-03.37.19:581][497]LogEditorTransaction: Undo Add Node
+[2019.12.08-03.37.19:849][512]LogEditorTransaction: Undo Add Node
+[2019.12.08-03.37.20:100][526]LogEditorTransaction: Undo Add Node
+[2019.12.08-03.37.20:413][542]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.37.21:009][575]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.37.21:327][593]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.37.21:580][608]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.37.21:858][624]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.37.22:157][640]LogEditorTransaction: Undo Add Node
+[2019.12.08-03.37.22:406][653]LogEditorTransaction: Undo Add Node
+[2019.12.08-03.37.22:640][666]LogEditorTransaction: Undo Add Node
+[2019.12.08-03.37.22:892][679]LogEditorTransaction: Undo Add Node
+[2019.12.08-03.37.23:140][693]LogEditorTransaction: Undo Add Node
+[2019.12.08-03.37.23:395][708]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.37.23:634][720]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.37.23:891][734]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.37.24:149][749]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.37.24:426][763]LogEditorTransaction: Undo Break Pin Links
+[2019.12.08-03.37.28:806][ 24]BlueprintLog: New page: Compile BP_PlayerCharacter
+[2019.12.08-03.37.29:122][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   4.87ms
+[2019.12.08-03.37.30:727][105]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.08-03.37.30:753][105]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap' with GeneratedClass '/Game/Maps/M_TestMap.M_TestMap_C' with ClassGeneratedBy '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap'
+[2019.12.08-03.37.30:753][105]BlueprintLog: New page: Pre-Play auto-recompile
+[2019.12.08-03.37.30:768][105]LogPlayLevel: [PlayLevel] Compiling BP_HealthComponent before play...
+[2019.12.08-03.37.31:615][105]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2019.12.08-03.37.35:747][105]LogStats: FPlatformStackWalk::StackWalkAndDump -  4.133 s
+[2019.12.08-03.37.35:747][105]LogOutputDevice: Error: === Handled ensure: ===
+[2019.12.08-03.37.35:747][105]LogOutputDevice: Error: 
+[2019.12.08-03.37.35:747][105]LogOutputDevice: Error: Ensure condition failed: MyNode->GetOuter() == ToPin->GetOwningNode()->GetOuter() [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/EdGraph/EdGraphPin.cpp] [Line: 450]
+[2019.12.08-03.37.35:747][105]LogOutputDevice: Error: UEdGraphPin::MakeLinkTo Pin 'A' on node 'float * float' has a different outer than pin 'Damage' on node '$$ Ed Graph 8 $$'
+[2019.12.08-03.37.35:747][105]LogOutputDevice: Error: Stack: 
+[2019.12.08-03.37.35:747][105]LogOutputDevice: Error: [Callstack] 0x00007ffd5ca90572 UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.08-03.37.35:747][105]LogOutputDevice: Error: [Callstack] 0x00007ffd5b91324a UE4Editor-Engine.dll!UnknownFunction []
+[2019.12.08-03.37.35:747][105]LogOutputDevice: Error: [Callstack] 0x00007ffd57db0bc1 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.08-03.37.35:748][105]LogOutputDevice: Error: [Callstack] 0x00007ffd57dafe2a UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2019.12.08-03.37.35:748][105]LogOutputDevice: Error: [Callstack] 0x00007ffd55129fd8 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.12.08-03.37.35:748][105]LogOutputDevice: Error: [Callstack] 0x00007ffd5512a373 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.12.08-03.37.35:748][105]LogOutputDevice: Error: [Callstack] 0x00007ffd5513f7c5 UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.12.08-03.37.35:748][105]LogOutputDevice: Error: [Callstack] 0x00007ffd55118b4d UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.12.08-03.37.35:748][105]LogOutputDevice: Error: [Callstack] 0x00007ffd551082ef UE4Editor-KismetCompiler.dll!UnknownFunction []
+[2019.12.08-03.37.35:748][105]LogOutputDevice: Error: [Callstack] 0x00007ffd59cd1bfc UE4Editor-Kismet.dll!UnknownFunction []
+[2019.12.08-03.37.35:748][105]LogOutputDevice: Error: [Callstack] 0x00007ffd59c83977 UE4Editor-Kismet.dll!UnknownFunction []
+[2019.12.08-03.37.35:748][105]LogOutputDevice: Error: [Callstack] 0x00007ffd756460e8 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.08-03.37.35:748][105]LogOutputDevice: Error: [Callstack] 0x00007ffd757b6b92 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.08-03.37.35:749][105]LogOutputDevice: Error: [Callstack] 0x00007ffd757a37c6 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.08-03.37.35:749][105]LogOutputDevice: Error: [Callstack] 0x00007ffd757be265 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.08-03.37.35:749][105]LogOutputDevice: Error: [Callstack] 0x00007ffd7527d9b4 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.08-03.37.35:749][105]LogOutputDevice: Error: [Callstack] 0x00007ffd75ad5296 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2019.12.08-03.37.35:749][105]LogOutputDevice: Error: [Callstack] 0x00007ff68f4e7b0a UE4Editor.exe!UnknownFunction []
+[2019.12.08-03.37.35:751][105]LogOutputDevice: Error: [Callstack] 0x00007ff68f4fa91c UE4Editor.exe!UnknownFunction []
+[2019.12.08-03.37.35:751][105]LogOutputDevice: Error: [Callstack] 0x00007ff68f4fa9fa UE4Editor.exe!UnknownFunction []
+[2019.12.08-03.37.35:751][105]LogOutputDevice: Error: [Callstack] 0x00007ff68f50b92c UE4Editor.exe!UnknownFunction []
+[2019.12.08-03.37.35:751][105]LogOutputDevice: Error: [Callstack] 0x00007ff68f50e60e UE4Editor.exe!UnknownFunction []
+[2019.12.08-03.37.35:751][105]LogOutputDevice: Error: [Callstack] 0x00007ffdb5897bd4 KERNEL32.DLL!UnknownFunction []
+[2019.12.08-03.37.35:752][105]LogOutputDevice: Error: [Callstack] 0x00007ffdb59eced1 ntdll.dll!UnknownFunction []
+[2019.12.08-03.37.35:752][105]LogOutputDevice: Error: 
+[2019.12.08-03.37.35:784][105]LogStats:                SubmitErrorReport -  0.000 s
+[2019.12.08-03.37.47:903][105]LogStats:                    SendNewReport - 12.118 s
+[2019.12.08-03.37.47:903][105]LogStats:             FDebug::EnsureFailed - 16.954 s
+[2019.12.08-03.37.47:909][105]LogBlueprint: Error: [Compiler BP_HealthComponent] Internal compiler error inside CreateExecutionSchedule (site 2); there is an issue with node/pin manipulation that was performed in this graph, please contact the Blueprints team!
+[2019.12.08-03.37.48:323][105]LogUObjectHash: Compacting FUObjectHashTables data took   4.12ms
+[2019.12.08-03.37.48:324][105]LogPlayLevel: PlayLevel: Blueprint regeneration took 17569 ms (1 blueprints)
+[2019.12.08-03.37.48:324][105]BlueprintLog: Warning: Blueprint failed to compile:  BP_HealthComponent
+[2019.12.08-03.37.48:324][105]LogCustomDialog: Dialog displayed:
+[2019.12.08-03.37.50:328][105]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/Blueprints/Components/Player/BP_HealthComponent.BP_HealthComponent
+[2019.12.08-03.37.53:379][105]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.08-03.38.07:199][889]BlueprintLog: New page: Compile BP_HealthComponent
+[2019.12.08-03.38.07:206][889]LogBlueprint: Error: [Compiler BP_HealthComponent] Internal compiler error inside CreateExecutionSchedule (site 2); there is an issue with node/pin manipulation that was performed in this graph, please contact the Blueprints team!
+[2019.12.08-03.38.07:432][889]LogUObjectHash: Compacting FUObjectHashTables data took   3.64ms
+[2019.12.08-03.38.18:212][513]LogSavePackage: Moving '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/BP_PlayerCharacterD9FDB5E94313B2490C251E9C1F7946AF.tmp' to '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Content/Blueprints/Player/BP_PlayerCharacter.uasset'
+[2019.12.08-03.38.27:989][ 60]BlueprintLog: New page: Compile BP_HealthComponent
+[2019.12.08-03.38.28:009][ 60]LogBlueprint: Error: [Compiler BP_HealthComponent] Internal compiler error inside CreateExecutionSchedule (site 2); there is an issue with node/pin manipulation that was performed in this graph, please contact the Blueprints team!
+[2019.12.08-03.38.28:234][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   4.44ms
+[2019.12.08-03.38.29:734][115]LogSavePackage: Moving '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Saved/BP_HealthComponent7A90F12E44ADF8DE443E5F897B0AF136.tmp' to '../../../../../../Users/Кирилл/Documents/Unreal Projects/Multiplayer shooter/MyProject/Content/Blueprints/Components/Player/BP_HealthComponent.uasset'
+[2019.12.08-03.38.43:667][935]LogSlate: Window 'BP_HealthComponent' being destroyed
+[2019.12.08-03.38.43:671][935]LogSlate: Window 'BP_HealthComponent' being destroyed
+[2019.12.08-03.38.43:697][935]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.38.44:939][935]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.38.45:706][971]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-03.38.45:711][971]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-03.38.47:235][ 19]LogTemp: Repeating last play command: New Editor Window (PIE)
+[2019.12.08-03.38.47:256][ 19]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel' has LevelScriptBlueprint '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap' with GeneratedClass '/Game/Maps/M_TestMap.M_TestMap_C' with ClassGeneratedBy '/Game/Maps/M_TestMap.M_TestMap:PersistentLevel.M_TestMap'
+[2019.12.08-03.38.47:256][ 19]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2019.12.08-03.38.47:256][ 19]BlueprintLog: Warning: Blueprint failed to compile:  BP_HealthComponent
+[2019.12.08-03.38.47:256][ 19]LogCustomDialog: Dialog displayed:
+[2019.12.08-03.38.48:806][ 19]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2019.12.08-03.38.51:693][191]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-03.38.51:698][191]LogSlate: Window 'Message Log' being destroyed
+[2019.12.08-03.38.53:531][288]LogUObjectHash: Compacting FUObjectHashTables data took  18.52ms
+[2019.12.08-03.38.55:408][288]LogSlate: Window 'MyProject - Unreal Editor' being destroyed
+[2019.12.08-03.38.55:411][288]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.12.08-03.38.56:376][289]Cmd: QUIT_EDITOR
+[2019.12.08-03.38.57:946][289]LogExit: Preparing to exit.
+[2019.12.08-03.38.59:181][289]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.38.59:190][289]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.38.59:392][289]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.12.08-03.38.59:569][289]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.12.08-03.38.59:570][289]LogExit: Editor shut down
+[2019.12.08-03.38.59:571][289]LogExit: Transaction tracking system shut down
+[2019.12.08-03.39.01:404][289]LogExit: Object subsystem successfully closed.
+[2019.12.08-03.39.01:674][289]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.12.08-03.39.03:492][289]LogModuleManager: Shutting down and abandoning module Voice (676)
+[2019.12.08-03.39.03:550][289]LogModuleManager: Shutting down and abandoning module BlueprintGraph (672)
+[2019.12.08-03.39.03:550][289]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (670)
+[2019.12.08-03.39.03:550][289]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (668)
+[2019.12.08-03.39.03:550][289]LogModuleManager: Shutting down and abandoning module AddContentDialog (666)
+[2019.12.08-03.39.03:603][289]LogModuleManager: Shutting down and abandoning module WidgetCarousel (665)
+[2019.12.08-03.39.03:603][289]LogModuleManager: Shutting down and abandoning module EditorWidgets (662)
+[2019.12.08-03.39.03:603][289]LogModuleManager: Shutting down and abandoning module CollectionManager (660)
+[2019.12.08-03.39.03:612][289]LogModuleManager: Shutting down and abandoning module SceneOutliner (658)
+[2019.12.08-03.39.03:612][289]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.12.08-03.39.03:641][289]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.12.08-03.39.03:641][289]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.12.08-03.39.03:642][289]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.12.08-03.39.03:645][289]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.12.08-03.39.03:645][289]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.12.08-03.39.03:645][289]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.12.08-03.39.03:645][289]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.12.08-03.39.03:650][289]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.12.08-03.39.03:650][289]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.12.08-03.39.03:650][289]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.12.08-03.39.03:652][289]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.12.08-03.39.03:652][289]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.12.08-03.39.03:653][289]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.12.08-03.39.03:653][289]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.12.08-03.39.03:653][289]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.12.08-03.39.03:673][289]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.12.08-03.39.03:720][289]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.12.08-03.39.03:720][289]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.12.08-03.39.03:745][289]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.12.08-03.39.03:756][289]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.12.08-03.39.03:756][289]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.12.08-03.39.03:756][289]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.12.08-03.39.03:756][289]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.12.08-03.39.03:757][289]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.12.08-03.39.03:766][289]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.12.08-03.39.03:768][289]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.12.08-03.39.03:777][289]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.12.08-03.39.03:869][289]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.12.08-03.39.03:869][289]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.12.08-03.39.03:869][289]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.12.08-03.39.03:870][289]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.12.08-03.39.03:885][289]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.12.08-03.39.03:887][289]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.12.08-03.39.03:887][289]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.12.08-03.39.03:888][289]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.12.08-03.39.03:888][289]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.12.08-03.39.03:888][289]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.12.08-03.39.03:888][289]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.12.08-03.39.03:888][289]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.12.08-03.39.05:759][289]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.12.08-03.39.05:759][289]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.12.08-03.39.05:759][289]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.12.08-03.39.05:759][289]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.12.08-03.39.05:759][289]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.12.08-03.39.05:759][289]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.12.08-03.39.05:759][289]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.12.08-03.39.05:856][289]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.12.08-03.39.05:876][289]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.12.08-03.39.05:918][289]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.12.08-03.39.05:919][289]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.12.08-03.39.05:931][289]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.12.08-03.39.05:943][289]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.12.08-03.39.05:943][289]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.12.08-03.39.05:943][289]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.12.08-03.39.05:943][289]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.12.08-03.39.05:943][289]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.12.08-03.39.05:943][289]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.12.08-03.39.05:992][289]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.12.08-03.39.06:007][289]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.12.08-03.39.06:014][289]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.12.08-03.39.06:025][289]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.12.08-03.39.06:041][289]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.12.08-03.39.06:104][289]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.12.08-03.39.06:118][289]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.12.08-03.39.06:137][289]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.12.08-03.39.06:158][289]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.12.08-03.39.06:158][289]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.12.08-03.39.06:176][289]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.12.08-03.39.06:176][289]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.12.08-03.39.06:223][289]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.12.08-03.39.06:255][289]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.12.08-03.39.06:256][289]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.12.08-03.39.06:256][289]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.12.08-03.39.06:282][289]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.12.08-03.39.06:282][289]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.12.08-03.39.06:282][289]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.12.08-03.39.06:282][289]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.12.08-03.39.06:282][289]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.12.08-03.39.06:282][289]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.12.08-03.39.06:293][289]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.12.08-03.39.06:317][289]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.12.08-03.39.06:318][289]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.12.08-03.39.06:332][289]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.12.08-03.39.06:332][289]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.12.08-03.39.06:355][289]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.12.08-03.39.06:355][289]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.12.08-03.39.06:355][289]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.12.08-03.39.06:365][289]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.12.08-03.39.06:365][289]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.12.08-03.39.06:365][289]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.12.08-03.39.06:365][289]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.12.08-03.39.06:365][289]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.12.08-03.39.06:365][289]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.12.08-03.39.06:365][289]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.12.08-03.39.06:379][289]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.12.08-03.39.06:379][289]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.12.08-03.39.06:379][289]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.12.08-03.39.06:379][289]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.12.08-03.39.06:401][289]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.12.08-03.39.06:411][289]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.12.08-03.39.06:636][289]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.12.08-03.39.06:661][289]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.12.08-03.39.06:661][289]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.12.08-03.39.06:661][289]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.12.08-03.39.06:661][289]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.12.08-03.39.06:673][289]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.12.08-03.39.06:673][289]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.12.08-03.39.06:673][289]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.12.08-03.39.06:673][289]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.12.08-03.39.06:673][289]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.12.08-03.39.06:673][289]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.12.08-03.39.06:673][289]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.12.08-03.39.06:674][289]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.12.08-03.39.06:674][289]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.12.08-03.39.06:674][289]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.12.08-03.39.06:674][289]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.12.08-03.39.06:674][289]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.12.08-03.39.06:719][289]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.12.08-03.39.06:744][289]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.12.08-03.39.06:755][289]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.12.08-03.39.06:766][289]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.12.08-03.39.06:766][289]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.12.08-03.39.06:766][289]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.12.08-03.39.06:766][289]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.12.08-03.39.06:766][289]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.12.08-03.39.06:766][289]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.12.08-03.39.06:767][289]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.12.08-03.39.06:799][289]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.12.08-03.39.06:816][289]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.12.08-03.39.06:833][289]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.12.08-03.39.06:851][289]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.12.08-03.39.06:866][289]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.12.08-03.39.06:866][289]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.12.08-03.39.06:867][289]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.12.08-03.39.06:867][289]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.12.08-03.39.06:867][289]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.12.08-03.39.06:867][289]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.12.08-03.39.06:878][289]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.12.08-03.39.06:905][289]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.12.08-03.39.06:949][289]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.12.08-03.39.06:949][289]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.12.08-03.39.06:949][289]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.12.08-03.39.06:949][289]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.12.08-03.39.06:949][289]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.12.08-03.39.06:949][289]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.12.08-03.39.06:950][289]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.12.08-03.39.06:950][289]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.12.08-03.39.06:950][289]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.12.08-03.39.06:995][289]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.12.08-03.39.06:995][289]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.12.08-03.39.06:995][289]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.12.08-03.39.06:995][289]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.12.08-03.39.06:995][289]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.12.08-03.39.06:995][289]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.12.08-03.39.07:097][289]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.12.08-03.39.07:197][289]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.12.08-03.39.07:197][289]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.12.08-03.39.07:197][289]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.12.08-03.39.07:291][289]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.12.08-03.39.07:291][289]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.12.08-03.39.07:291][289]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.12.08-03.39.07:291][289]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.12.08-03.39.07:291][289]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.12.08-03.39.07:291][289]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.12.08-03.39.07:291][289]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.12.08-03.39.07:291][289]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.12.08-03.39.07:291][289]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.12.08-03.39.07:291][289]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.12.08-03.39.07:310][289]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.12.08-03.39.07:355][289]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.12.08-03.39.07:374][289]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.12.08-03.39.07:374][289]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.12.08-03.39.07:380][289]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.12.08-03.39.07:389][289]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.12.08-03.39.07:391][289]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.12.08-03.39.07:404][289]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.12.08-03.39.07:404][289]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.12.08-03.39.07:404][289]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.12.08-03.39.07:415][289]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.12.08-03.39.07:417][289]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.12.08-03.39.07:417][289]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.12.08-03.39.07:417][289]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.12.08-03.39.07:417][289]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.12.08-03.39.07:417][289]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.12.08-03.39.07:436][289]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.12.08-03.39.07:436][289]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.12.08-03.39.07:436][289]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.12.08-03.39.07:436][289]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.12.08-03.39.07:459][289]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.12.08-03.39.07:484][289]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.12.08-03.39.07:484][289]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.12.08-03.39.07:561][289]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.12.08-03.39.07:567][289]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.12.08-03.39.07:591][289]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.12.08-03.39.07:617][289]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.12.08-03.39.07:617][289]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.12.08-03.39.07:623][289]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.12.08-03.39.07:684][289]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.12.08-03.39.07:684][289]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.12.08-03.39.07:709][289]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.12.08-03.39.07:709][289]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.12.08-03.39.07:709][289]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.12.08-03.39.07:711][289]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.12.08-03.39.07:711][289]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.12.08-03.39.07:711][289]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.12.08-03.39.07:711][289]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.12.08-03.39.07:711][289]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.12.08-03.39.07:711][289]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.12.08-03.39.07:711][289]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.12.08-03.39.07:711][289]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.12.08-03.39.07:711][289]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.12.08-03.39.07:711][289]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.12.08-03.39.07:726][289]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.12.08-03.39.07:726][289]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.12.08-03.39.07:794][289]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.12.08-03.39.07:819][289]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.12.08-03.39.07:819][289]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.12.08-03.39.07:833][289]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.12.08-03.39.07:833][289]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.12.08-03.39.07:858][289]LogDerivedDataCache: Shutdown
+[2019.12.08-03.39.07:864][289]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.12.08-03.39.07:864][289]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.12.08-03.39.07:865][289]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.12.08-03.39.07:875][289]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.12.08-03.39.07:875][289]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.12.08-03.39.07:891][289]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.12.08-03.39.07:891][289]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.12.08-03.39.07:919][289]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.12.08-03.39.07:919][289]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.12.08-03.39.07:919][289]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.12.08-03.39.07:919][289]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.12.08-03.39.07:920][289]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.12.08-03.39.07:920][289]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.12.08-03.39.07:920][289]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.12.08-03.39.07:920][289]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.12.08-03.39.07:936][289]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.12.08-03.39.07:936][289]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.12.08-03.39.07:936][289]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.12.08-03.39.07:938][289]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.12.08-03.39.07:939][289]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.12.08-03.39.07:939][289]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.12.08-03.39.07:939][289]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.12.08-03.39.07:939][289]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.12.08-03.39.07:941][289]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.12.08-03.39.07:941][289]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.12.08-03.39.07:943][289]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.12.08-03.39.07:943][289]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.12.08-03.39.07:964][289]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.12.08-03.39.07:990][289]LogHMD: Freeing OpenVRDLLHandle.
+[2019.12.08-03.39.07:990][289]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.12.08-03.39.08:036][289]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.12.08-03.39.08:036][289]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.12.08-03.39.08:037][289]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.12.08-03.39.08:037][289]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.12.08-03.39.08:054][289]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.12.08-03.39.08:084][289]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.12.08-03.39.08:154][289]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.12.08-03.39.08:154][289]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.12.08-03.39.08:154][289]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B98651EBF-48D3-9200-74BB-5E8C707D7A85%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.1-9631420%2B%2B%2BUE4%2BRelease-4.23&UserID=e4c8e1c144c9933f8bc52f90722f5cfe%7Cf2e674091eaf4696867e39035a613a04%7C38db2c5b-237d-435e-8bcc-f4f44b540ae8&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.12.08-03.39.08:176][289]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.12.08-03.39.08:194][289]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.12.08-03.39.08:265][289]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.12.08-03.39.08:267][289]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.12.08-03.39.08:268][289]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.12.08-03.39.08:269][289]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.12.08-03.39.08:269][289]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.12.08-03.39.08:289][289]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.12.08-03.39.08:290][289]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.12.08-03.39.08:304][289]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.12.08-03.39.08:304][289]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.12.08-03.39.08:347][289]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.12.08-03.39.08:347][289]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.12.08-03.39.08:347][289]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.12.08-03.39.08:347][289]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.12.08-03.39.08:379][289]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.12.08-03.39.08:404][289]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.12.08-03.39.08:404][289]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.12.08-03.39.08:405][289]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.12.08-03.39.08:405][289]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.12.08-03.39.08:405][289]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.12.08-03.39.08:405][289]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.12.08-03.39.08:405][289]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.12.08-03.39.08:405][289]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.12.08-03.39.08:405][289]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.12.08-03.39.08:405][289]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.12.08-03.39.08:420][289]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.12.08-03.39.08:460][289]LogD3D11RHI: Shutdown
+[2019.12.08-03.39.08:468][289]LogD3D11RHI: CleanupD3DDevice
+[2019.12.08-03.39.08:587][289]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.08-03.39.08:591][289]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.08-03.39.08:591][289]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.12.08-03.39.08:801][289]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.12.08-03.39.08:893][289]LogExit: Exiting.
+[2019.12.08-03.39.08:908][289]Log file closed, 12/08/19 10:39:08
